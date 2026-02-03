@@ -1,0 +1,13 @@
+# Naruto Jutsu Trainer - Requirements
+# Install with: pip install -r requirements.txt
+
+# Core dependencies
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+numpy>=1.24.0
+
+# Sound effects (optional but recommended)
+pygame>=2.5.0
+
+# For generating placeholder images (optional)
+Pillow>=10.0.0
